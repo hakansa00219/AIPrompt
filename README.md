@@ -1,7 +1,7 @@
 # AIPrompt
 With AI prompt generate a texture with detailed all(height/metallic/occ...) maps using StableDiffusion
 
-!! Packages folder also ignored since ML and AI packages are big.
+!! Packages folder also ignored since ML and AI packages are too big for git.
 
 Check the "packages.config" file to see the packages for this project.
 
